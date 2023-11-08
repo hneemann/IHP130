@@ -128,6 +128,11 @@
       <elementAttributes/>
       <pos x="840" y="120"/>
     </visualElement>
+    <visualElement>
+      <elementName>sg13g2_nand3b_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="840" y="520"/>
+    </visualElement>
   </visualElements>
   <wires/>
   <measurementOrdering/>
