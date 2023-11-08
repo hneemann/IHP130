@@ -61,12 +61,12 @@
     <visualElement>
       <elementName>sg13g2_dfrbp_1.dig</elementName>
       <elementAttributes/>
-      <pos x="920" y="240"/>
+      <pos x="940" y="520"/>
     </visualElement>
     <visualElement>
       <elementName>sg13g2_inv_1.dig</elementName>
       <elementAttributes/>
-      <pos x="940" y="380"/>
+      <pos x="960" y="140"/>
     </visualElement>
     <visualElement>
       <elementName>sg13g2_nand4_1.dig</elementName>
@@ -86,7 +86,7 @@
     <visualElement>
       <elementName>sg13g2_a221oi_1.dig</elementName>
       <elementAttributes/>
-      <pos x="920" y="480"/>
+      <pos x="920" y="360"/>
     </visualElement>
     <visualElement>
       <elementName>sg13g2_a22oi_1.dig</elementName>
@@ -111,7 +111,22 @@
     <visualElement>
       <elementName>sg13g2_ebufn_2.dig</elementName>
       <elementAttributes/>
-      <pos x="940" y="140"/>
+      <pos x="960" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>some of the IHP130 standard cells</string>
+        </entry>
+      </elementAttributes>
+      <pos x="380" y="60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_einvn_2.dig</elementName>
+      <elementAttributes/>
+      <pos x="960" y="200"/>
     </visualElement>
   </visualElements>
   <wires/>

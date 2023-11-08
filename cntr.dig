@@ -485,6 +485,16 @@ repeat(16) C bits(4,n+1)</dataString>
       </elementAttributes>
       <pos x="-240" y="-20"/>
     </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>4 bit counter built with IHP130 standard cells</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-160" y="-140"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
