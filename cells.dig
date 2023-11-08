@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>sg13g2_nor2_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="180" y="120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_xor2_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="180" y="200"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_xnor2_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="180" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_nor2b_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="340" y="120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_or3_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="340" y="200"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_or2_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="340" y="280"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_nor4_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="340" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_or4_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="520" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_nor3_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="180" y="400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_mux2_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="540" y="120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_mux4_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="540" y="220"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_dfrbp_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="920" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_inv_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="940" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_nand4_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="180" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_nand2_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="500" y="520"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_nand3_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="340" y="520"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_a221oi_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="920" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_a22oi_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="700" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_o21ai_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="700" y="360"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_a21oi_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="700" y="260"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_a21o_1.dig</elementName>
+      <elementAttributes/>
+      <pos x="700" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>sg13g2_ebufn_2.dig</elementName>
+      <elementAttributes/>
+      <pos x="940" y="140"/>
+    </visualElement>
+  </visualElements>
+  <wires/>
+  <measurementOrdering/>
+</circuit>
