@@ -8,5 +8,6 @@ within a [Digital](https://github.com/hneemann/Digital/) simulation.
 
 * Clone the repository.
 * Select the IHP130/lib folder as Digital's new library folder 
-  in the settings. 
+  in the settings (the topmost entry in Settings->Extended) 
 * Restart Digital
+* Open the cntr.dig example
